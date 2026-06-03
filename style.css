@@ -193,6 +193,9 @@ footer{
   .pr-img{
     height: 50vh;
   }
+   .projects{
+    margin-top: 20px;
+  }
 }
   .show-menu{
     flex-direction: column;
